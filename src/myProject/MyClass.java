@@ -2,6 +2,8 @@ package myProject;
 
 public class MyClass<T> {
 
+	
+//	werwerwer
 	private T[] array ;
 	public void setT(T[]array){
 		this.array=array;
