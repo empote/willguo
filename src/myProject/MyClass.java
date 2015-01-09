@@ -2,6 +2,8 @@ package myProject;
 
 public class MyClass<T> {
 
+	//after ignore
+	
 	
 //	werwerwer
 	private T[] array ;
