@@ -4,6 +4,7 @@ public class MyClass<T> {
 
 	//after ignore
 	
+	//2nd\
 	
 //	werwerwer
 	private T[] array ;
